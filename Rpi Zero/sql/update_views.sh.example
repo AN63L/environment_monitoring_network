@@ -1,0 +1,2 @@
+#!/bin/bash
+psql --host monitor.local --port 5432 --dbname postgres --username username < sql/refresh_views.sql --log-file sql/log.txt

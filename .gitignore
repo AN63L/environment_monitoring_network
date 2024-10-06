@@ -1,0 +1,10 @@
+.env
+__pycache__
+node_modules
+mosaic-vue
+nucleo-icons
+.vscode
+.pio
+*drawio
+update_views.sh
+dist
